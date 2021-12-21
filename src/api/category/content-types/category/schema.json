@@ -14,12 +14,6 @@
     "name": {
       "type": "string",
       "required": true
-    },
-    "curated_channels": {
-      "type": "relation",
-      "relation": "manyToMany",
-      "target": "api::curated-channel.curated-channel",
-      "mappedBy": "categories"
     }
   }
 }
