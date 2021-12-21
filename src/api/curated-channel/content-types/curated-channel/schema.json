@@ -4,7 +4,8 @@
   "info": {
     "singularName": "curated-channel",
     "pluralName": "curated-channels",
-    "displayName": "Curated Channel"
+    "displayName": "Curated Channel",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -41,7 +42,7 @@
         "food",
         "music",
         "video",
-        "desgin"
+        "design"
       ],
       "required": true
     }
